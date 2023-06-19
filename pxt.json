@@ -1,0 +1,31 @@
+{
+    "name": "A車csf0619",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "sensors": "github:gigotoys/gigo-block#42e48e853c87813ab0148b44b47b6279d797ba5e",
+        "KSB045": "github:lioujj/pxt-ksb045#f6ea8f51a636c92f349853a2fc4fb92053e1c85f"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v3.0.60",
+        "tag": "v3.0.60",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/07e6457bfa581487f1ec30941556f426bd071cb0",
+        "target": "6.0.8",
+        "pxt": "6.0.35",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
